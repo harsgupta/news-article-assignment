@@ -13,7 +13,7 @@ Please review the information in this section before you get started with your d
 * Use any CSS framework or libraries (e.g., Bootstrap, Material-UI) to style your components.
 * Use a router library like React Router to handle page navigation.
 * Use an API library like Axios for making HTTP requests to your backend or mock API.
-* You may choose any database of your choice (e.g., SQLite, MongoDB, MySQL, etc.) or you can use a mock API for data persistence.
+* You may choose any database of your choice (e.g., SQLite, MongoDB, MySQL, etc.) or you can use a mock API for data persistence..
 * Implement error handling and validation for form submissions.
 * Write clean and maintainable code, following best practices.
 * Provide clear instructions on how to run the application locally and any setup steps required.
